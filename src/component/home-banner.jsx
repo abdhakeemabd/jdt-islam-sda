@@ -18,7 +18,7 @@ function HomeBanner() {
         cancelOnInteraction={false}
         interval={6000}
       >
-        <div className='w-100'>
+        <div className='banner-cover'>
           <img className='banner-img' src={Home1} alt="Banner 1" />
           <div className="caption">
            <div className="container">
@@ -27,7 +27,7 @@ function HomeBanner() {
            </div>
           </div>
         </div>
-        <div className='w-100'>
+        <div className='banner-cover'>
           <img className='banner-img' src={Home2} alt="Banner 2" />
           <div className="caption">
            <div className="container">
@@ -36,7 +36,7 @@ function HomeBanner() {
            </div>
           </div>
         </div>
-        <div className='w-100'>
+        <div className='banner-cover'>
           <img className='banner-img' src={Home3} alt="Banner 3" />
           <div className="caption">
            <div className="container">
