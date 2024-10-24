@@ -15,7 +15,7 @@ function HomeAbout() {
         <section className='home-about-sec'>
             <div className="container">
                 <div className="row">
-                    <div className="col-md-3 mb-3 mb-md-0 p-0">
+                    <div className="col-md-3 mb-3 mb-md-0 p-md-0" data-aos="fade-up">
                         <div className="sm-card">
                           <div className='icons'>
                             <img src={About} className='img-fluid' alt="" />
@@ -25,7 +25,7 @@ function HomeAbout() {
                           <p className=''>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, placeat. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo, obcaecati.</p>
                         </div>
                     </div>
-                    <div className="col-md-3 mb-3 mb-md-0 p-0">
+                    <div className="col-md-3 mb-3 mb-md-0 p-md-0" data-aos="fade-up">
                         <div className="sm-card">
                           <div className='icons'>
                             <img src={College} className='img-fluid' alt="" />
@@ -35,7 +35,7 @@ function HomeAbout() {
                           <p className=''>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, placeat. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo, obcaecati.</p>
                         </div>
                     </div>
-                    <div className="col-md-3 mb-3 mb-md-0 p-0">
+                    <div className="col-md-3 mb-3 mb-md-0 p-md-0" data-aos="fade-up">
                         <div className="sm-card">
                           <div className='icons'>
                             <img src={Hostel} className='img-fluid' alt="" />
@@ -45,7 +45,7 @@ function HomeAbout() {
                           <p className=''>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, placeat. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo, obcaecati.</p>
                         </div>
                     </div>
-                    <div className="col-md-3 mb-3 mb-md-0 p-0">
+                    <div className="col-md-3 mb-3 mb-md-0 p-md-0" data-aos="fade-up">
                         <div className="sm-card">
                           <div className='icons'>
                             <img src={Activitiy} className='img-fluid' alt="" />
