@@ -1,7 +1,7 @@
 .home-about-sec .sm-card{
     position: relative;
     padding: 40px 30px;
-    background: #faebd7;
+    background: #D7D4CD;
     text-align: center;
     border: 1px solid #2222;
 }
@@ -31,7 +31,7 @@
     left: 50%;
     text-align: center;
     margin: -41px 0 0 -41px;
-    background-color: #faebd7;
+    background-color: #D7D4CD;
     border-radius: 20px 0px 20px 0px;
     box-shadow: 0 0 12px #00000014;
 }

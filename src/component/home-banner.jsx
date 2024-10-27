@@ -16,7 +16,7 @@ function HomeBanner() {
       <AutoplaySlider
         play={true}
         cancelOnInteraction={false}
-        interval={6000}
+        interval={3000}
       >
         <div className='banner-cover'>
           <img className='banner-img' src={Home1} alt="Banner 1" />
